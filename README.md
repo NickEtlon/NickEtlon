@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there! I go by the names Nick or Etlon.</h1>
 <h3 align="center">Welcome to my GitHub profile!</h3>
 
-- 👋 **Hey there! I go by the names Nick or Etlon.**
+- 💀 **Live skull reaction.**
 
 - 🎮 **As a hobbyist, my focus lies in creating content related to video games.**
 
