@@ -12,7 +12,7 @@
 - 🌟 **Don't forget to check out my Discord server as well!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">https://discord.com/invite/QGdsP7G
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
