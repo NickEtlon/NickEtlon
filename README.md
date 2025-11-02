@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hey there! I go by the names Nick or Etlon.</h1>
 <h3 align="center">Welcome to my GitHub profile!</h3>
 
-- 💀 **Live skull reaction.**
+- 💀 **Amateur.**
 
-- 🎮 **As a hobbyist, my focus lies in creating content related to video games.**
+- 🎮 **Most of the time my focus lies in creating content related to video games.**
 
 - 📂 **I mainly use this platform to upload personal projects and resources that I find useful.**
 
